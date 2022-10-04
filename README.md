@@ -25,7 +25,7 @@ inline：Predicted inline sections
 xline：Predicted xline sections
 
 confusion_55：Confusion matrix for the test set
-
+==============================================================================================================
 训练和测试直接运行patch_train.py，patch_test.py，section_train.py，section_test.py四个文件即可。
 代码说明：
 core/models/USegformerHyper.py：U-Segformer-Hyper、U-Segformer、Segformer的网络结构
