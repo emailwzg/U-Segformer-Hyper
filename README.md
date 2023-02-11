@@ -1,6 +1,7 @@
 [![DOI](https://zenodo.org/badge/543462554.svg)](https://zenodo.org/badge/latestdoi/543462554)
 
 ## Seismic Facies Segmentation via A Segformer-based Specific Encoder-Decoder-Hypercolumns Scheme
+The paper is available in [https://doi.org/10.1109/TGRS.2023.3244037]
 
 ## Installation
 Training and testing can run four files directly (patch_train.py，patch_test.py，section_train.py，section_test.py).
