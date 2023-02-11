@@ -28,7 +28,9 @@ xline：Predicted xline sections
 
 confusion_55：Confusion matrix for the test set
 
-================================================================Chinese version 中文说明=========
+
+
+=======================Chinese version 中文说明=========
 
 
 训练和测试直接运行patch_train.py，patch_test.py，section_train.py，section_test.py四个文件即可。
