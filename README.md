@@ -1,7 +1,8 @@
 [![DOI](https://zenodo.org/badge/543462554.svg)](https://zenodo.org/badge/latestdoi/543462554)
 
-# U-Segformer-Hyper
+## Seismic Facies Segmentation via A Segformer-based Specific Encoder-Decoder-Hypercolumns Scheme
 
+## Installation
 Training and testing can run four files directly (patch_train.py，patch_test.py，section_train.py，section_test.py).
 code file:
 core/models/USegformerHyper.py：Network structure of U-Segformer-Hyper、U-Segformer、Segformer
